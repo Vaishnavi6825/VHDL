@@ -16,14 +16,14 @@ Software: <br>
 
 `Code Implementation`
 
-`module logic_gates(input a, input b, output or_gate, output and_gate, output not_gate, output nand_gate, output xor_gate, output nor_gate);<br>
+module logic_gates(input a, input b, output or_gate, output and_gate, output not_gate, output nand_gate, output xor_gate, output nor_gate);<br>
   assign or_gate = a | b;<br>
   assign and_gate = a & b;<br>
   assign not_gate = ~a;<br>
   assign nand_gate = ~(a & b);<br>
   assign xor_gate = a ^ b;<br>
   assign nor_gate = ~(a | b);<br>
-endmodule`<br>
+endmodule <br>
 
 
 ![WhatsApp Image 2024-10-15 at 14 54 08_5ea07a82](https://github.com/user-attachments/assets/36256952-667e-42fa-8983-a1f36e010ecd)
