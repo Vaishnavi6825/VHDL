@@ -1,4 +1,4 @@
-# VHDL
+# VHDL1
 This repository contains Design and testing of basic Logic Gates using Verilog HDL and capture the waveforms.
 
 `Aim`
